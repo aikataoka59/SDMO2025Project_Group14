@@ -1,2 +1,11 @@
 I used this Github project:
 https://github.com/pallets/flask.git
+
+
+Almost all pair seems to be FP. 
+
+Improvement Examples:
+Exclude candidates with different email domains
+Ignore names with similarity below 0.5
+Add mapping for nicknames and initials
+Combine conditions to improve TP/FP ratio

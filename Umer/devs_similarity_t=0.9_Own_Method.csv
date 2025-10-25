@@ -1,0 +1,294 @@
+name_1,email_1,name_2,email_2,c1,c2,c3.1,c3.2,c4,c5,c6,c7
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,aho+lex@03s.net,1.0,0.47619047619047616,1.0,1.0,True,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,aho+rpi9@03s.net,1.0,0.4545454545454546,1.0,1.0,True,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,aho.rover-air61@03s.net,1.0,0.4137931034482759,1.0,1.0,True,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,aho@bruteforce.03s.net,1.0,0.3529411764705882,1.0,1.0,True,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,aho@rover-air61.03s.net,1.0,0.3529411764705882,1.0,1.0,True,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,aho@tafaco.net,1.0,0.3529411764705882,1.0,1.0,True,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.19047619047619047,1.0,1.0,False,False,True,False
+Adrian Ho,aho+bruteforce@03s.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.24,1.0,1.0,False,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,aho+rpi9@03s.net,1.0,0.5333333333333333,1.0,1.0,True,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,aho.rover-air61@03s.net,1.0,0.36363636363636365,1.0,1.0,True,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,aho@bruteforce.03s.net,1.0,0.6,1.0,1.0,True,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,aho@rover-air61.03s.net,1.0,0.6,1.0,1.0,True,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,aho@tafaco.net,1.0,0.6,1.0,1.0,True,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.1428571428571429,1.0,1.0,False,False,True,False
+Adrian Ho,aho+lex@03s.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.2222222222222222,1.0,1.0,False,False,True,False
+Adrian Ho,aho+rpi9@03s.net,Adrian Ho,aho.rover-air61@03s.net,1.0,0.4347826086956522,1.0,1.0,True,False,True,False
+Adrian Ho,aho+rpi9@03s.net,Adrian Ho,aho@bruteforce.03s.net,1.0,0.5454545454545454,1.0,1.0,True,False,True,False
+Adrian Ho,aho+rpi9@03s.net,Adrian Ho,aho@rover-air61.03s.net,1.0,0.5454545454545454,1.0,1.0,True,False,True,False
+Adrian Ho,aho+rpi9@03s.net,Adrian Ho,aho@tafaco.net,1.0,0.5454545454545454,1.0,1.0,True,False,True,False
+Adrian Ho,aho+rpi9@03s.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.2666666666666667,1.0,1.0,False,False,True,False
+Adrian Ho,aho+rpi9@03s.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.3157894736842105,1.0,1.0,False,False,True,False
+Adrian Ho,aho.rover-air61@03s.net,Adrian Ho,aho@bruteforce.03s.net,1.0,0.33333333333333337,1.0,1.0,True,False,True,False
+Adrian Ho,aho.rover-air61@03s.net,Adrian Ho,aho@rover-air61.03s.net,1.0,0.33333333333333337,1.0,1.0,True,False,True,False
+Adrian Ho,aho.rover-air61@03s.net,Adrian Ho,aho@tafaco.net,1.0,0.33333333333333337,1.0,1.0,True,False,True,False
+Adrian Ho,aho.rover-air61@03s.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.2727272727272727,1.0,1.0,False,False,True,False
+Adrian Ho,aho.rover-air61@03s.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.3846153846153846,1.0,1.0,False,False,True,False
+Adrian Ho,aho@bruteforce.03s.net,Adrian Ho,aho@rover-air61.03s.net,1.0,1.0,1.0,1.0,True,False,True,False
+Adrian Ho,aho@bruteforce.03s.net,Adrian Ho,aho@tafaco.net,1.0,1.0,1.0,1.0,True,False,True,False
+Adrian Ho,aho@bruteforce.03s.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.19999999999999996,1.0,1.0,False,False,True,False
+Adrian Ho,aho@bruteforce.03s.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.2857142857142857,1.0,1.0,False,False,True,False
+Adrian Ho,aho@rover-air61.03s.net,Adrian Ho,aho@tafaco.net,1.0,1.0,1.0,1.0,True,False,True,False
+Adrian Ho,aho@rover-air61.03s.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.19999999999999996,1.0,1.0,False,False,True,False
+Adrian Ho,aho@rover-air61.03s.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.2857142857142857,1.0,1.0,False,False,True,False
+Adrian Ho,aho@tafaco.net,Adrian Ho,gromgit@users.noreply.github.com,1.0,0.19999999999999996,1.0,1.0,False,False,True,False
+Adrian Ho,aho@tafaco.net,Adrian Ho,the.gromgit@gmail.com,1.0,0.2857142857142857,1.0,1.0,False,False,True,False
+Adrian Ho,gromgit@users.noreply.github.com,Adrian Ho,the.gromgit@gmail.com,1.0,0.7777777777777778,1.0,1.0,False,False,False,False
+Alex Dunn,adunn@ucsb.edu,Alex Dunn,dunn.alex@gmail.com,1.0,0.5714285714285714,1.0,1.0,True,True,True,False
+Alex Muller,alex.muller@digital.cabinet-office.gov.uk,puredanger,alex.miller@cognitect.com,0.2857142857142857,0.9090909090909091,0.2857142857142857,0.0,False,True,False,False
+Alexander Bayandin,a.bayandin@gmail.com,Alexander Bayandin,alexander.bayandin@databricks.com,1.0,0.7142857142857143,1.0,1.0,True,True,True,False
+Alexander Bayandin,a.bayandin@gmail.com,Alexander Bayandin,alexander@bayandin.dev,1.0,0.42105263157894735,1.0,1.0,False,False,True,False
+Alexander Bayandin,a.bayandin@gmail.com,Alexander Bayandin,alexander@neon.tech,1.0,0.42105263157894735,1.0,1.0,False,False,True,False
+Alexander Bayandin,alexander.bayandin@databricks.com,Alexander Bayandin,alexander@bayandin.dev,1.0,0.6666666666666667,1.0,1.0,False,False,True,True
+Alexander Bayandin,alexander.bayandin@databricks.com,Alexander Bayandin,alexander@neon.tech,1.0,0.6666666666666667,1.0,1.0,False,False,True,True
+Alexander Bayandin,alexander@bayandin.dev,Alexander Bayandin,alexander@neon.tech,1.0,1.0,1.0,1.0,False,False,False,False
+Alexander Regueiro,alexreg@gmail.com,Alexander Regueiro,alexreg@me.com,1.0,1.0,1.0,1.0,False,False,False,False
+Alyssa Ross,hi+services.github@alyssa.is,Alyssa Ross,hi@alyssa.is,1.0,0.19999999999999996,1.0,1.0,False,False,False,False
+Amy Grace,zgracem@users.noreply.github.com,Z. Grace Moreau,zgracem@users.noreply.github.com,0.5217391304347826,1.0,0.0,0.5882352941176471,True,False,False,True
+Anastasia Sulyagina,anastasiia@google.com,AnastasiaSulyagina,anastasia.sulyagina@gmail.com,0.972972972972973,0.6896551724137931,0.6666666666666667,0.0,True,True,False,False
+Andre Arko,andre@arko.net,Andrew Janke,andrew@apjanke.net,0.7272727272727273,0.9090909090909091,0.9090909090909091,0.4444444444444444,False,True,False,False
+Andrew Janke,andrew@apjanke.net,Andrew Janke,floss@apjanke.net,1.0,0.0,1.0,1.0,False,False,False,False
+Andrew Janke,andrew@apjanke.net,Andrew Janke,janke@eilonwy.local,1.0,0.5454545454545454,1.0,1.0,True,False,False,False
+Andrew Janke,floss@apjanke.net,Andrew Janke,janke@eilonwy.local,1.0,0.0,1.0,1.0,True,False,False,False
+Andrew R. McBurney,andrewrobertmcburney@gmail.com,AndrewMcBurney,andrew.mcburney@datadoghq.com,0.9032258064516129,0.8,0.6,0.0,False,True,False,False
+Andrew R. McBurney,andrewrobertmcburney@gmail.com,AndrewMcBurney,andrewrobertmcburney@gmail.com,0.9032258064516129,1.0,0.6,0.0,False,True,False,False
+AndrewMcBurney,andrew.mcburney@datadoghq.com,AndrewMcBurney,andrewrobertmcburney@gmail.com,1.0,0.8,1.0,1.0,False,False,False,False
+Anton,antonsm21@gmail.com,Anton Melnikov,antonsm21@gmail.com,0.5263157894736843,1.0,1.0,0.0,False,False,False,True
+Anton Melnikov,antonsm21@gmail.com,botantony,antonsm21@gmail.com,0.4347826086956522,1.0,0.7142857142857143,0.0,False,True,False,False
+April Arcus,april.arcus@gmail.com,April Arcus,ril@google.com,1.0,0.4285714285714286,1.0,1.0,False,False,True,True
+Austin Ziegler,austin@halostatue.ca,Austin Ziegler,austin@zieglers.ca,1.0,1.0,1.0,1.0,False,False,False,False
+Baptiste Fontaine,b@ptistefontaine.fr,Baptiste Fontaine,baptiste.fontaine@batch.com,1.0,0.11111111111111116,1.0,1.0,True,True,False,False
+Baptiste Fontaine,b@ptistefontaine.fr,Baptiste Fontaine,baptiste.fontaine@oscaro.com,1.0,0.11111111111111116,1.0,1.0,True,True,False,False
+Baptiste Fontaine,b@ptistefontaine.fr,Baptiste Fontaine,batifon@yahoo.fr,1.0,0.25,1.0,1.0,False,False,False,False
+Baptiste Fontaine,baptiste.fontaine@batch.com,Baptiste Fontaine,baptiste.fontaine@oscaro.com,1.0,1.0,1.0,1.0,True,True,True,True
+Baptiste Fontaine,baptiste.fontaine@batch.com,Baptiste Fontaine,batifon@yahoo.fr,1.0,0.5833333333333333,1.0,1.0,False,False,True,True
+Baptiste Fontaine,baptiste.fontaine@oscaro.com,Baptiste Fontaine,batifon@yahoo.fr,1.0,0.5833333333333333,1.0,1.0,False,False,True,True
+Bartosz Kita,barthand@gmail.com,Bartosz Kita,bartosz.kita@roche.com,1.0,0.5,1.0,1.0,True,True,False,False
+Ben Bleything,ben@bleything.net,Ben Burkert,ben@benburkert.com,0.5833333333333333,1.0,1.0,0.375,False,True,False,True
+Ben Bleything,ben@bleything.net,Ben Moss,ben@mossity.com,0.38095238095238093,1.0,1.0,0.0,False,True,False,False
+Ben Bleything,ben@bleything.net,Benjamin Bergman,ben@benbergman.ca,0.48275862068965514,1.0,0.5454545454545454,0.375,False,True,False,False
+Ben Bleything,ben@bleything.net,Benjamin Denhartog,ben@sudoforge.com,0.4516129032258065,1.0,0.5454545454545454,0.33333333333333337,False,True,False,False
+Ben Burkert,ben@benburkert.com,Ben Moss,ben@mossity.com,0.42105263157894735,1.0,1.0,0.0,False,True,False,False
+Ben Burkert,ben@benburkert.com,Benjamin Bergman,ben@benbergman.ca,0.5185185185185186,1.0,0.5454545454545454,0.4285714285714286,False,True,False,False
+Ben Burkert,ben@benburkert.com,Benjamin Denhartog,ben@sudoforge.com,0.48275862068965514,1.0,0.5454545454545454,0.375,False,True,False,False
+Bevan J. Kay,email@bevankay.me,Bevan Kay,bevanjkay@gmail.com,0.9,0.2857142857142857,1.0,0.75,False,True,False,False
+Bevan J. Kay,email@bevankay.me,Bevan Kay,email@bevankay.me,0.9,1.0,1.0,0.75,False,False,False,False
+Bevan Kay,bevanjkay@gmail.com,Bevan Kay,email@bevankay.me,1.0,0.2857142857142857,1.0,1.0,False,False,True,True
+Birger J. Nordølum,birgerjn@gmail.com,Birger J. Nordølum,contact@mindtooth.no,1.0,0.1333333333333333,1.0,1.0,False,False,False,True
+Bob Lail,bob.lailfamily@gmail.com,Bob Lail,lail@squareup.com,1.0,0.4444444444444444,1.0,1.0,False,False,True,True
+Bob W. Hogg,hogg.bob.2@gmail.com,Bob W. Hogg,rwhogg@linux.com,1.0,0.5,1.0,1.0,False,False,False,False
+BrewTestBot,1589480+BrewTestBot@users.noreply.github.com,BrewTestBot,brew-test-bot@googlegroups.com,1.0,0.5,1.0,1.0,False,False,False,False
+Camden Narzt,c.narzt@me.com,Camden Narzt,camden.narzt@hotmail.com,1.0,0.736842105263158,1.0,1.0,True,True,True,False
+Carlo Cabrera,30379873+carlocab@users.noreply.github.com,Carlo Cabrera,github@carlo.cab,1.0,0.08695652173913049,1.0,1.0,False,False,False,True
+Carlo Cabrera,30379873+carlocab@users.noreply.github.com,carlocab,30379873+carlocab@users.noreply.github.com,0.7619047619047619,1.0,0.7692307692307692,0.0,False,True,False,False
+Carlos Sanchez,carlos@apache.org,Carlos Álvaro,carlos@cdalvaro.io,0.5925925925925926,1.0,1.0,0.15384615384615385,False,True,False,True
+Charlie Sharpsteen,sharpie@charlie-sharpsteens-macpro31.local,Charlie Sharpsteen,source@sharpsteen.net,1.0,0.46153846153846156,1.0,1.0,False,False,False,False
+Cheng XU,git@xuc.me,Cheng Xu,git@xuc.me,1.0,1.0,1.0,1.0,False,False,False,False
+Chris,ChrisBaker97@users.noreply.github.com,chris,chris@csie.io,1.0,0.47058823529411764,1.0,1.0,False,False,False,False
+Chris,ChrisBaker97@users.noreply.github.com,chrisg,christopher.gateley@gmail.com,0.9090909090909091,0.3870967741935484,0.9090909090909091,1.0,False,False,False,False
+Chris Tompkinson,chris.tompkinson@spaceapegames.com,Chris Tompkinson,ctompkinson@gmail.com,1.0,0.8148148148148149,1.0,1.0,True,False,True,True
+Christian Bundy,me@christianbundy.com,ChristianBundy,me@christianbundy.com,0.9655172413793104,1.0,0.782608695652174,0.0,False,False,False,False
+Christian Moritz,chrmoritz@gmail.com,Christian Moritz,chrmoritz@users.noreply.github.com,1.0,1.0,1.0,1.0,True,False,True,False
+Colin Dean,colin.dean@target.com,Colin Dean,colindean@users.noreply.github.com,1.0,0.9473684210526316,1.0,1.0,True,True,True,True
+Colin Dean,colin.dean@target.com,Colin Dean,git@cad.cx,1.0,0.15384615384615385,1.0,1.0,False,False,True,True
+Colin Dean,colindean@users.noreply.github.com,Colin Dean,git@cad.cx,1.0,0.16666666666666663,1.0,1.0,False,False,True,True
+Connor Mann,34930543+cnnrmnn@users.noreply.github.com,Connor Mann,cnnrmnn@hey.com,1.0,0.6086956521739131,1.0,1.0,False,False,False,False
+Connor Mann,34930543+cnnrmnn@users.noreply.github.com,Connor Mann,connor@cnnrmnn.com,1.0,0.36363636363636365,1.0,1.0,False,False,False,False
+Connor Mann,cnnrmnn@hey.com,Connor Mann,connor@cnnrmnn.com,1.0,0.6153846153846154,1.0,1.0,False,False,False,False
+Daeho Ro,40587651+daeho-ro@users.noreply.github.com,Daeho Ro,daeho.ro@bespinglobal.com,1.0,0.56,1.0,1.0,True,True,True,True
+Daeho Ro,40587651+daeho-ro@users.noreply.github.com,Daeho Ro,email@daeho.ro,1.0,0.09090909090909094,1.0,1.0,False,False,True,True
+Daeho Ro,40587651+daeho-ro@users.noreply.github.com,Daeho Ro,lamanus@outlook.kr,1.0,0.08333333333333337,1.0,1.0,False,False,True,True
+Daeho Ro,daeho.ro@bespinglobal.com,Daeho Ro,email@daeho.ro,1.0,0.15384615384615385,1.0,1.0,False,False,True,True
+Daeho Ro,daeho.ro@bespinglobal.com,Daeho Ro,lamanus@outlook.kr,1.0,0.1333333333333333,1.0,1.0,False,False,True,True
+Daeho Ro,email@daeho.ro,Daeho Ro,lamanus@outlook.kr,1.0,0.33333333333333337,1.0,1.0,False,False,False,False
+Dan Martinez,dan.martinez@spirent.com,Dan Martinez,dfm@razorwind.org,1.0,0.2666666666666667,1.0,1.0,False,False,True,True
+Daniel Bayley,daniel.bayley@me.com,danielbayley,daniel.bayley@me.com,0.96,1.0,0.6666666666666667,0.0,True,True,False,False
+Daniel Nachun,daniel.nachun@gmail.com,danielnachun,daniel.nachun@gmail.com,0.96,1.0,0.6666666666666667,0.0,True,True,False,False
+David,david@hmnd.io,David,dcow@pm.me,1.0,0.2222222222222222,1.0,1.0,False,False,False,False
+David Bailey,4248177+davidbailey00@users.noreply.github.com,David Bailey,davidbailey00@outlook.com,1.0,0.7647058823529411,1.0,1.0,True,True,True,True
+David Broder-Rodgers,broder93@gmail.com,David Broder-Rodgers,db560@cam.ac.uk,1.0,0.15384615384615385,1.0,1.0,False,False,False,False
+David Christenson,david@the-david.com,David Christenson,mail@noctem.xyz,1.0,0.4444444444444444,1.0,1.0,False,False,False,False
+David O'Trakoun,davidosomething@users.noreply.github.com,David O'Trakoun,me@davidosomething.com,1.0,0.23529411764705888,1.0,1.0,False,False,False,True
+Dominique,dominique.orban@gmail.com,Dominique Orban,dominique.orban@gmail.com,0.75,1.0,1.0,0.0,False,False,True,True
+Dominyk Tiller,DomT4@users.noreply.github.com,Dominyk Tiller,dom_t4@yahoo.co.uk,1.0,0.5454545454545454,1.0,1.0,False,False,False,False
+Dominyk Tiller,DomT4@users.noreply.github.com,Dominyk Tiller,dominyktiller@gmail.com,1.0,0.2222222222222222,1.0,1.0,True,True,False,False
+Dominyk Tiller,dom_t4@yahoo.co.uk,Dominyk Tiller,dominyktiller@gmail.com,1.0,0.42105263157894735,1.0,1.0,True,True,False,False
+Douglas Eichelberger,697964+dduugg@users.noreply.github.com,Douglas Eichelberger,d@eic.email,1.0,0.1428571428571429,1.0,1.0,False,False,False,False
+Douglas Eichelberger,697964+dduugg@users.noreply.github.com,Douglas Eichelberger,dduugg@gmail.com,1.0,0.631578947368421,1.0,1.0,False,False,False,False
+Douglas Eichelberger,697964+dduugg@users.noreply.github.com,Douglas Eichelberger,dduugg@users.noreply.github.com,1.0,0.631578947368421,1.0,1.0,False,False,False,False
+Douglas Eichelberger,697964+dduugg@users.noreply.github.com,Douglas Eichelberger,doug.eichelberger@gusto.com,1.0,0.2666666666666667,1.0,1.0,True,False,False,False
+Douglas Eichelberger,d@eic.email,Douglas Eichelberger,dduugg@gmail.com,1.0,0.2857142857142857,1.0,1.0,False,False,False,False
+Douglas Eichelberger,d@eic.email,Douglas Eichelberger,dduugg@users.noreply.github.com,1.0,0.2857142857142857,1.0,1.0,False,False,False,False
+Douglas Eichelberger,d@eic.email,Douglas Eichelberger,doug.eichelberger@gusto.com,1.0,0.11111111111111116,1.0,1.0,True,False,False,False
+Douglas Eichelberger,dduugg@gmail.com,Douglas Eichelberger,dduugg@users.noreply.github.com,1.0,1.0,1.0,1.0,False,False,False,False
+Douglas Eichelberger,dduugg@gmail.com,Douglas Eichelberger,doug.eichelberger@gusto.com,1.0,0.34782608695652173,1.0,1.0,True,False,False,False
+Douglas Eichelberger,dduugg@users.noreply.github.com,Douglas Eichelberger,doug.eichelberger@gusto.com,1.0,0.34782608695652173,1.0,1.0,True,False,False,False
+Elijah Olmos,35435704+elijaholmos@users.noreply.github.com,Elijah Olmos,eli.olmos9@gmail.com,1.0,0.5333333333333333,1.0,1.0,True,False,True,True
+Emre Erhan,halidemreerhan@gmail.com,emreerhan,halidemreerhan@gmail.com,0.9473684210526316,1.0,0.6153846153846154,0.0,True,True,False,False
+EricFromCanada,enk3@outlook.com,EricFromCanada,eric@lassosoft.com,1.0,0.25,1.0,1.0,False,False,False,False
+FX Coudert,fxcoudert@gmail.com,Francois-Xavier Coudert,fxcoudert@gmail.com,0.625,1.0,0.25,1.0,True,True,True,False
+Felix Buenemann,Felix.Buenemann@gmail.com,Felix Bünemann,buenemann@louis.info,0.9655172413793104,0.6666666666666667,1.0,0.9411764705882353,False,False,False,False
+Felix Buenemann,Felix.Buenemann@gmail.com,Felix Bünemann,felix.buenemann@gmail.com,0.9655172413793104,0.8666666666666667,1.0,0.9411764705882353,True,True,False,False
+Felix Bünemann,buenemann@louis.info,Felix Bünemann,felix.buenemann@gmail.com,1.0,0.75,1.0,1.0,False,True,False,False
+Gautham Goli,gauthamgoli@gautham2.local,Gautham Goli,goligautham@gmail.com,1.0,0.6363636363636364,1.0,1.0,True,True,True,True
+Geoff Nixon,geoff.nixon@aol.com,Geoff Nixon,geoff@geoff.codes,1.0,0.625,1.0,1.0,False,False,True,True
+Geoff Nixon,geoff.nixon@aol.com,Geoff Nixon,ĝeȫff · ńıxṍn ⓐ åol · ḉoṃ,1.0,0.2777777777777778,1.0,1.0,False,False,True,True
+Geoff Nixon,geoff@geoff.codes,Geoff Nixon,ĝeȫff · ńıxṍn ⓐ åol · ḉoṃ,1.0,0.19999999999999996,1.0,1.0,False,False,False,False
+Gibson Fahnestock,gib@apple.com,Gibson Fahnestock,gibfahn@gmail.com,1.0,0.6,1.0,1.0,False,False,False,False
+Greg Myers,myersg86@gmail.com,myersg86,myersg86@gmail.com,0.5555555555555556,1.0,0.33333333333333337,0.0,True,False,False,False
+Greg NISBET,gregorynisbet@google.com,Greg Nisbet,gregory.nisbet@gmail.com,1.0,0.962962962962963,1.0,1.0,True,True,True,True
+Harry Marr,harry.marr@gmail.com,Harry Marr,hmarr@github.com,1.0,0.6666666666666667,1.0,1.0,True,False,True,True
+Issy Long,issyl0@github.com,Issy Long,me@issyl0.co.uk,1.0,0.0,1.0,1.0,False,False,False,True
+Issy Long,issyl0@github.com,Issy Long,me@issylong.com,1.0,0.0,1.0,1.0,False,False,False,True
+Issy Long,me@issyl0.co.uk,Issy Long,me@issylong.com,1.0,1.0,1.0,1.0,False,False,False,False
+Izaak Beekman,contact@izaakbeekman.com,Izaak Beekman,zbeekman@gmail.com,1.0,0.1333333333333333,1.0,1.0,False,False,False,False
+Jack Haden-Enneking,enneking@uw.edu,Jack Haden-Enneking,jacktose@users.noreply.github.com,1.0,0.125,1.0,1.0,False,False,False,False
+Jack Nagel,jacknagel@gmail.com,Jack Nagel,jacknagel@users.noreply.github.com,1.0,1.0,1.0,1.0,True,True,True,True
+Jaime Marquínez Ferrándiz,jaime.marquinez.ferrandiz@gmail.com,Jaime Marquínez Ferrándiz,jaimemf93@gmail.com,1.0,0.4117647058823529,1.0,1.0,False,True,False,True
+Jan Viljanen,527069+javian@users.noreply.github.com,Jan Viljanen,jan.a.viljanen@gmail.com,1.0,0.4444444444444444,1.0,1.0,True,True,False,False
+Jan Viljanen,527069+javian@users.noreply.github.com,Jan Viljanen,jan.viljanen@greenpeace.org,1.0,0.48,1.0,1.0,True,True,False,False
+Jan Viljanen,jan.a.viljanen@gmail.com,Jan Viljanen,jan.viljanen@greenpeace.org,1.0,0.9230769230769231,1.0,1.0,True,True,True,True
+Jason Karns,jason.karns@gmail.com,Jason Karns,jason@karns.name,1.0,0.625,1.0,1.0,False,False,True,True
+Jonathan Chang,jchang641@gmail.com,Jonathan Chang,me@jonathanchang.org,1.0,0.0,1.0,1.0,False,False,True,False
+Josh Hagins,hagins.josh@gmail.com,Josh Hagins,jhagins@palantir.com,1.0,0.6666666666666667,1.0,1.0,True,False,True,True
+Josh Hagins,hagins.josh@gmail.com,Joshua Hagins,hagins.josh@gmail.com,0.9166666666666666,1.0,0.8,1.0,True,True,True,False
+Josh Hagins,jhagins@palantir.com,Joshua Hagins,hagins.josh@gmail.com,0.9166666666666666,0.6666666666666667,0.8,1.0,True,True,True,False
+Josh McKinney,joshka@users.noreply.github.com,Joshua McKinney,joshka@users.noreply.github.com,0.9285714285714286,1.0,0.8,1.0,False,False,False,False
+Junho Choi,1229714+junhochoi@users.noreply.github.com,Junho Choi,junho.choi@gmail.com,1.0,0.6666666666666667,1.0,1.0,True,True,True,True
+Kid,44045911+kidonng@users.noreply.github.com,Kid,hi@xuann.wang,1.0,0.11111111111111116,1.0,1.0,False,False,False,False
+Kid,44045911+kidonng@users.noreply.github.com,Kid,kidonng@gmail.com,1.0,0.6086956521739131,1.0,1.0,False,False,False,False
+Kid,hi@xuann.wang,Kid,kidonng@gmail.com,1.0,0.2222222222222222,1.0,1.0,False,False,False,False
+Kien Dang,mail@kien.ai,kiendang,kiend@pm.me,0.9411764705882353,0.2222222222222222,0.6666666666666667,0.0,False,True,False,False
+Kristján Oddsson,hi@koddsson.com,Kristján Oddsson,koddsson@gmail.com,1.0,0.0,1.0,1.0,True,False,False,False
+Kyle Smith,knksmith57@gmail.com,Kyle Smith,kysmith@twilio.com,1.0,0.7058823529411764,1.0,1.0,True,False,True,False
+L. E. Segovia,13498015+amyspark@users.noreply.github.com,L. E. Segovia,amyspark@users.noreply.github.com,1.0,0.64,1.0,1.0,False,False,False,False
+Larry Gilbert,larry@L2G.to,Larry Gilbert,larry@l2g.to,1.0,1.0,1.0,1.0,False,False,False,False
+Lionell,lionell_loh@mymail.sutd.edu.sg,Lionell Loh Jian An,lionellloh@gmail.com,0.5384615384615384,0.9523809523809523,1.0,0.0,False,False,False,True
+Lionell Loh Jian An,lionellloh@gmail.com,lionellloh,lionell_loh@mymail.sutd.edu.sg,0.6896551724137931,0.9523809523809523,0.8235294117647058,0.0,False,True,False,False
+Marius Kleiner,infogrind@users.noreply.github.com,Marius Kleiner,kleiner@gmail.com,1.0,0.375,1.0,1.0,False,False,False,False
+Martin Kuehl,martin.kuehl@gmail.com,Martin Kühl,martin.kuehl@gmail.com,0.9565217391304348,1.0,1.0,0.8888888888888888,True,True,False,True
+Martin Kuehl,martin.kuehl@gmail.com,Martin Kühl,martin.kuehl@gmail.com,0.9565217391304348,1.0,1.0,0.8888888888888888,True,True,False,True
+Martin Kühl,martin.kuehl@gmail.com,Martin Kühl,martin.kuehl@gmail.com,1.0,1.0,1.0,1.0,False,True,False,True
+Matt Torok,github+mtgmail@overblown.net,Matt Torok,mtorok@berkeley.edu,1.0,0.19999999999999996,1.0,1.0,True,False,False,False
+Max Howell,max@methylblue.com,Max Howell,mxcl@mairax.lan,1.0,0.5714285714285714,1.0,1.0,False,False,False,False
+Max Howell,max@methylblue.com,Max Howell,mxcl@me.com,1.0,0.5714285714285714,1.0,1.0,False,False,False,False
+Max Howell,mxcl@mairax.lan,Max Howell,mxcl@me.com,1.0,1.0,1.0,1.0,False,False,False,False
+Maxim Belkin,maxim-belkin@users.noreply.github.com,Maxim Belkin,maxim.belkin@gmail.com,1.0,0.9166666666666666,1.0,1.0,True,True,True,True
+Maxim Belkin,maxim-belkin@users.noreply.github.com,Maxim Belkin,maxim.belkin@intel.com,1.0,0.9166666666666666,1.0,1.0,True,True,True,True
+Maxim Belkin,maxim.belkin@gmail.com,Maxim Belkin,maxim.belkin@intel.com,1.0,1.0,1.0,1.0,True,True,True,True
+Melvyn Depeyrot,melvyn.depeyrot@gmail.com,melvyn2,melvyn.depeyrot@gmail.com,0.5454545454545454,1.0,0.9230769230769231,0.0,True,True,False,False
+Miccal Matthews,miccal.matthews@gmail.com,miccal,miccal.matthews@gmail.com,0.5714285714285714,1.0,1.0,0.0,True,True,False,False
+Michael Cho,cho-m@tuta.io,Michael Cho,mcho@tutanota.com,1.0,0.6666666666666667,1.0,1.0,True,False,True,False
+Michael Cho,cho-m@tuta.io,Michael Cho,michael@michaelcho.dev,1.0,0.33333333333333337,1.0,1.0,False,True,True,False
+Michael Cho,mcho@tutanota.com,Michael Cho,michael@michaelcho.dev,1.0,0.5454545454545454,1.0,1.0,False,True,True,False
+Michael Stingl,214010+michaelstingl@users.noreply.github.com,michaelstingl,mstingl@cloudpunks.de,0.962962962962963,0.5185185185185186,0.7,0.0,True,False,False,False
+Mike Dillon,mike@appropriate.io,Mike Enriquez,mike@enriquez.me,0.5,1.0,1.0,0.1428571428571429,False,False,False,True
+Mike Dillon,mike@appropriate.io,Mike McQuaid,mike@brew.sh,0.5217391304347826,1.0,1.0,0.15384615384615385,False,False,False,True
+Mike Dillon,mike@appropriate.io,Mike McQuaid,mike@mikemcquaid.com,0.5217391304347826,1.0,1.0,0.15384615384615385,False,False,False,True
+Mike Dillon,mike@appropriate.io,Mike Miller,mike@mtmxr.com,0.7272727272727273,1.0,1.0,0.5,False,False,False,True
+Mike Enriquez,mike@enriquez.me,Mike McQuaid,mike@brew.sh,0.56,1.0,1.0,0.2666666666666667,False,True,False,True
+Mike Enriquez,mike@enriquez.me,Mike McQuaid,mike@mikemcquaid.com,0.56,1.0,1.0,0.2666666666666667,False,True,False,True
+Mike Enriquez,mike@enriquez.me,Mike Miller,mike@mtmxr.com,0.5833333333333333,1.0,1.0,0.2857142857142857,False,True,False,True
+Mike McQuaid,mike@brew.sh,Mike McQuaid,mike@mikemcquaid.com,1.0,1.0,1.0,1.0,False,True,False,True
+Mike McQuaid,mike@brew.sh,Mike Miller,mike@mtmxr.com,0.6086956521739131,1.0,1.0,0.3076923076923077,False,True,False,True
+Mike McQuaid,mike@mikemcquaid.com,Mike Miller,mike@mtmxr.com,0.6086956521739131,1.0,1.0,0.3076923076923077,False,True,False,True
+Mislav Marohnić,mislav.marohnic@gmail.com,Mislav Marohnić,git@mislav.net,1.0,0.11111111111111116,1.0,1.0,False,False,True,True
+Mislav Marohnić,mislav.marohnic@gmail.com,Mislav Marohnić,mislav.marohnic@gmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Mislav Marohnić,git@mislav.net,Mislav Marohnić,mislav.marohnic@gmail.com,1.0,0.11111111111111116,1.0,1.0,True,True,False,False
+Misty De Meo,mistydemeo@github.com,Misty De Meo,mistydemeo@gmail.com,1.0,1.0,1.0,1.0,False,True,False,True
+Misty De Meo,mistydemeo@github.com,Misty De Méo,misty.demeo@shopify.com,1.0,0.9523809523809523,1.0,1.0,False,True,False,True
+Misty De Meo,mistydemeo@github.com,Misty De Méo,misty@axo.dev,1.0,0.6666666666666667,1.0,1.0,False,False,False,True
+Misty De Meo,mistydemeo@gmail.com,Misty De Méo,misty.demeo@shopify.com,1.0,0.9523809523809523,1.0,1.0,False,True,False,True
+Misty De Meo,mistydemeo@gmail.com,Misty De Méo,misty@axo.dev,1.0,0.6666666666666667,1.0,1.0,False,False,False,True
+Misty De Méo,misty.demeo@shopify.com,Misty De Méo,misty@axo.dev,1.0,0.625,1.0,1.0,False,False,False,True
+Muneeb Ahmed,32603485+muneebmahmed@users.noreply.github.com,Muneeb Ahmed,ahmemune@amazon.com,1.0,0.27586206896551724,1.0,1.0,False,False,True,True
+Muneeb Ahmed,32603485+muneebmahmed@users.noreply.github.com,Muneeb Ahmed,muneebmahmed@gmail.com,1.0,0.7272727272727273,1.0,1.0,True,True,True,True
+Muneeb Ahmed,ahmemune@amazon.com,Muneeb Ahmed,muneebmahmed@gmail.com,1.0,0.4,1.0,1.0,True,True,False,False
+Nanda H Krishna,me@nandahkrishna.com,Nanda H Krishna,nanda.harishankar@gmail.com,1.0,0.0,1.0,1.0,False,True,False,False
+Nanda H Krishna,me@nandahkrishna.com,nandahkrishna,nanda.harishankar@gmail.com,0.9285714285714286,0.0,0.5555555555555556,0.0,False,True,False,False
+Nanda H Krishna,nanda.harishankar@gmail.com,nandahkrishna,nanda.harishankar@gmail.com,0.9285714285714286,1.0,0.5555555555555556,0.0,False,True,False,False
+Naoto Kaneko,n_kaneko@r.recruit.co.jp,Naoto Kaneko,naoty.k@gmail.com,1.0,0.4,1.0,1.0,False,False,True,False
+Nate Whetsell,nathan.whetsell@gmail.com,Nathan Whetsell,nathan.whetsell@gmail.com,0.8571428571428572,1.0,0.6,1.0,True,False,True,True
+Nick Hackman,snickhackman@gmail.com,NickHackman,snickhackman@gmail.com,0.9565217391304348,1.0,0.5333333333333333,0.0,True,True,False,False
+Numbermaniac,lleytonj73@gmail.com,numbermaniac,numbermaniac@users.noreply.github.com,1.0,0.18181818181818177,1.0,1.0,False,False,False,False
+Peter Lewis,820394+peterlewis@users.noreply.github.com,Peter Lewis,peter@peterlew.is,1.0,0.4545454545454546,1.0,1.0,False,False,True,True
+Peter Lewis,peter@peterlew.is,Peter Rowlands,peter@pmrowla.com,0.64,1.0,1.0,0.3076923076923077,False,False,False,True
+PikachuEXE,git@pikachuexe.net,PikachuEXE,pikachuexe@gmail.com,1.0,0.15384615384615385,1.0,1.0,False,False,False,False
+Rakesh,rakkesh@protonmail.ch,Rakesh,rakkesh@users.noreply.github.com,1.0,1.0,1.0,1.0,False,False,False,False
+Raymie Stata,rstata@verticloud.com,rstata-verticloud,rstata@altiscale.com,0.4285714285714286,1.0,0.2727272727272727,0.0,True,False,False,False
+Reto Kromer,lists@reto.ch,Reto Kromer,retokromer@users.noreply.github.com,1.0,0.1333333333333333,1.0,1.0,True,True,False,False
+Richie Thomas,richie.thomas@blueapron.com,richiethomas,rickthomas1980@gmail.com,0.96,0.6666666666666667,0.6666666666666667,0.0,True,False,False,False
+Rui Chen,chenrui333@gmail.com,Rui Chen,rui@chenrui.dev,1.0,0.46153846153846156,1.0,1.0,False,False,True,True
+Rui Chen,chenrui333@gmail.com,Rui Chen,rui@meetup.com,1.0,0.46153846153846156,1.0,1.0,False,False,True,True
+Rui Chen,chenrui333@gmail.com,chenrui,chenrui333@gmail.com,0.5333333333333333,1.0,0.6,0.0,True,True,False,False
+Rui Chen,rui@chenrui.dev,Rui Chen,rui@meetup.com,1.0,1.0,1.0,1.0,False,False,False,False
+Ruiyang Wu,58066925+ywwry66@users.noreply.github.com,Ruiyang Wu,ywwry66@outlook.com,1.0,0.6086956521739131,1.0,1.0,False,False,False,False
+SHIBATA Hiroshi,hsbt@ruby-lang.org,SHIBATA Hiroshi,shibata.hiroshi@gmail.com,1.0,0.3157894736842105,1.0,1.0,True,True,False,False
+Samuel Cochran,sj26@sj26.com,Samuel Cochran,sj26@thefrontiergroup.com.au,1.0,1.0,1.0,1.0,False,False,False,False
+Samuel John,github@SamuelJohn.de,Samuel John,github@samueljohn.de,1.0,1.0,1.0,1.0,False,False,False,False
+Samuel John,github@SamuelJohn.de,samueljohn,github@samueljohn.de,0.9523809523809523,1.0,0.75,0.0,False,False,False,False
+Samuel John,github@samueljohn.de,samueljohn,github@samueljohn.de,0.9523809523809523,1.0,0.75,0.0,False,False,False,False
+Sanjito Kurniawan,s4nji@users.noreply.github.com,Sanjito Kurniawan,ssi@hellofresh.com,1.0,0.5,1.0,1.0,False,False,False,False
+Sean Molenaar,SMillerDev@users.noreply.github.com,Sean Molenaar,sean@seanmolenaar.eu,1.0,0.1428571428571429,1.0,1.0,False,False,False,False
+Sean Molenaar,SMillerDev@users.noreply.github.com,Sean Molenaar,smillerdev@me.com,1.0,0.7,1.0,1.0,False,False,False,False
+Sean Molenaar,sean@seanmolenaar.eu,Sean Molenaar,smillerdev@me.com,1.0,0.2857142857142857,1.0,1.0,False,False,False,False
+Sharon Azriel,150116802+sazriel26@users.noreply.github.com,sazriel26,150116802+sazriel26@users.noreply.github.com,0.6363636363636364,1.0,0.4,0.0,True,False,False,False
+Simon Olofsson,simon@olofsson.de,Simon Olofsson,so@cm4all.com,1.0,0.5714285714285714,1.0,1.0,False,False,False,True
+Stefan,humdedum@icloud.com,Stefan,hydra_github@me.com,1.0,0.30000000000000004,1.0,1.0,False,False,False,False
+Steve Peters,scpeters@openrobotics.org,Steve Peters,scpeters@osrfoundation.org,1.0,1.0,1.0,1.0,True,False,True,False
+Steve Peters,scpeters@openrobotics.org,Steven Peters,scpeters@openrobotics.org,0.96,1.0,0.9090909090909091,1.0,True,False,True,False
+Steve Peters,scpeters@openrobotics.org,Steven Peters,scpeters@osrfoundation.org,0.96,1.0,0.9090909090909091,1.0,True,False,True,False
+Steve Peters,scpeters@osrfoundation.org,Steven Peters,scpeters@openrobotics.org,0.96,1.0,0.9090909090909091,1.0,True,False,True,False
+Steve Peters,scpeters@osrfoundation.org,Steven Peters,scpeters@osrfoundation.org,0.96,1.0,0.9090909090909091,1.0,True,False,True,False
+Steven Peters,scpeters@openrobotics.org,Steven Peters,scpeters@osrfoundation.org,1.0,1.0,1.0,1.0,True,False,True,False
+Stevie Howard,stvhwrd@users.noreply.github.com,Stevie Howard,stvhwrd@uvic.ca,1.0,1.0,1.0,1.0,False,False,False,False
+Thibaut Hérault,78233978+tyuwags@users.noreply.github.com,Thibaut Hérault,thibaut.herault@gmail.com,1.0,0.19354838709677424,1.0,1.0,True,True,False,False
+Thibaut Hérault,thibaut.herault@gmail.com,thibhero,thibaut.herault@gmail.com,0.6086956521739131,1.0,0.5333333333333333,0.0,True,True,False,False
+Thomas Andrew,thomas@enotea.uk,Thomas Andrew,tja523@york.ac.uk,1.0,0.33333333333333337,1.0,1.0,False,False,False,True
+Thomas L. Kjeldsen,tlk@closureconsulting.com,Thomas L. Kjeldsen,tlk@users.noreply.github.com,1.0,1.0,1.0,1.0,False,False,False,False
+Tim D. Smith,git@tim-smith.us,Tim D. Smith,github@tim-smith.us,1.0,0.6666666666666667,1.0,1.0,False,False,False,False
+Tim D. Smith,github@tim-smith.us,tim smith,github@tim-smith.us,0.9,1.0,1.0,0.8333333333333334,False,False,False,False
+Tim Visher,tim.visher@datadoghq.com,Tim Visher,tim.visher@gmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Tim Visher,tim.visher@datadoghq.com,Tim Visher,tim@stitchdata.com,1.0,0.46153846153846156,1.0,1.0,False,False,True,True
+Tim Visher,tim.visher@gmail.com,Tim Visher,tim@stitchdata.com,1.0,0.46153846153846156,1.0,1.0,False,False,True,True
+Tom,tom@collider.in,Tom M,tom@collider.in,0.75,1.0,1.0,0.0,False,False,True,False
+Tom Forbes,tom@tomforb.es,Tom M,tom@collider.in,0.5333333333333333,1.0,1.0,0.0,False,False,True,False
+Tom Hu,thomasrockhu@users.noreply.github.com,Tom Hu,tomhu1096+gpg@gmail.com,1.0,0.4,1.0,1.0,True,True,True,False
+Tom Hu,thomasrockhu@users.noreply.github.com,Tom Hu,tomhu1096@gmail.com,1.0,0.47619047619047616,1.0,1.0,True,True,True,False
+Tom Hu,tomhu1096+gpg@gmail.com,Tom Hu,tomhu1096@gmail.com,1.0,0.8181818181818181,1.0,1.0,True,True,True,True
+Tom M,tom@collider.in,msbit,tom@msbit.com.au,0.19999999999999996,1.0,0.25,0.0,True,False,False,False
+Tom Schoonjans,Tom.Schoonjans@bam.de,Tom Schoonjans,Tom.Schoonjans@diamond.ac.uk,1.0,1.0,1.0,1.0,False,False,False,False
+Tom Schoonjans,Tom.Schoonjans@bam.de,Tom Schoonjans,Tom.Schoonjans@rfi.ac.uk,1.0,1.0,1.0,1.0,False,False,False,False
+Tom Schoonjans,Tom.Schoonjans@diamond.ac.uk,Tom Schoonjans,Tom.Schoonjans@rfi.ac.uk,1.0,1.0,1.0,1.0,False,False,False,False
+Tomasz Pajor,n@servercrunch.com,Tomasz Pajor,tomek@polishgeeks.com,1.0,0.0,1.0,1.0,False,False,False,False
+Uladzislau Shablinski,vladshablinsky@gmail.com,Vlad Shablinsky,vladshablinsky@gmail.com,0.7222222222222222,1.0,0.4285714285714286,0.9,False,False,True,True
+Vidushee Amoli,vidushee.amoli@gmail.com,vidusheeamoli,vidushee.amoli@gmail.com,0.962962962962963,1.0,0.7619047619047619,0.0,True,True,False,False
+Viktor Szakats,commit@vszakats.net,Viktor Szakats,vszakats@users.noreply.github.com,1.0,0.1428571428571429,1.0,1.0,True,False,False,False
+Viktor Szakats,commit@vszakats.net,Viktor Szakáts,vszakats@users.noreply.github.com,1.0,0.1428571428571429,1.0,1.0,True,False,False,False
+Viktor Szakats,vszakats@users.noreply.github.com,Viktor Szakáts,vszakats@users.noreply.github.com,1.0,1.0,1.0,1.0,True,False,True,False
+Vítor Galvão,info@vitorgalvao.com,Vítor Galvão,info@vitorgalvao.com,1.0,1.0,1.0,1.0,False,False,False,False
+William Ma,1882991+whoiswillma@users.noreply.github.com,William Ma,whoiswillma@gmail.com,1.0,0.7333333333333334,1.0,1.0,True,False,True,False
+William Woodruff,william.woodruff@trailofbits.com,William Woodruff,william@tuffbizz.com,1.0,0.6086956521739131,1.0,1.0,False,True,True,True
+William Woodruff,william.woodruff@trailofbits.com,William Woodruff,william@yossarian.net,1.0,0.6086956521739131,1.0,1.0,False,True,True,True
+William Woodruff,william.woodruff@trailofbits.com,William Woodruff,woodruffw@users.noreply.github.com,1.0,0.64,1.0,1.0,True,False,True,True
+William Woodruff,william@tuffbizz.com,William Woodruff,william@yossarian.net,1.0,1.0,1.0,1.0,False,True,False,True
+William Woodruff,william@tuffbizz.com,William Woodruff,woodruffw@users.noreply.github.com,1.0,0.125,1.0,1.0,True,False,False,True
+William Woodruff,william@yossarian.net,William Woodruff,woodruffw@users.noreply.github.com,1.0,0.125,1.0,1.0,True,False,False,True
+Xu Cheng,git@xuc.me,Xu Cheng,xu-cheng@users.noreply.github.com,1.0,0.18181818181818177,1.0,1.0,True,True,False,False
+Xu Cheng,git@xuc.me,Xu Cheng,xucheng@me.com,1.0,0.19999999999999996,1.0,1.0,True,True,False,False
+Xu Cheng,xu-cheng@users.noreply.github.com,Xu Cheng,xucheng@me.com,1.0,0.9333333333333333,1.0,1.0,True,True,True,True
+Xuehai Pan,XuehaiPan@pku.edu.cn,XuehaiPan,XuehaiPan@pku.edu.cn,0.9473684210526316,1.0,0.8,0.0,False,False,False,False
+Yoshimasa Niwa,niw@meow.local,Yoshimasa Niwa,niw@tmeow.local,1.0,1.0,1.0,1.0,False,False,False,False
+Yoshimasa Niwa,niw@meow.local,Yoshimasa Niwa,niw@tw-172-25-147-62.office.twttr.net,1.0,1.0,1.0,1.0,False,False,False,False
+Yoshimasa Niwa,niw@tmeow.local,Yoshimasa Niwa,niw@tw-172-25-147-62.office.twttr.net,1.0,1.0,1.0,1.0,False,False,False,False
+Z. Grace Moreau,cryptostrophe@users.noreply.github.com,Z. Grace Moreau,zgracem@users.noreply.github.com,1.0,0.19999999999999996,1.0,1.0,False,True,False,False
+Zach,zachauten@gmail.com,Zach Auten,zachauten@gmail.com,0.5714285714285714,1.0,1.0,0.0,False,False,True,True
+Zhiming Wang,i@zhimingwang.org,Zhiming Wang,zmwangx@gmail.com,1.0,0.0,1.0,1.0,True,False,False,False
+chris,chris@csie.io,chrisg,christopher.gateley@gmail.com,0.9090909090909091,0.41666666666666663,0.9090909090909091,1.0,False,False,False,False
+commitay,commitay1@gmail.com,commitay,commitay@users.noreply.github.com,1.0,0.9411764705882353,1.0,1.0,False,False,False,False
+dependabot-preview[bot],27856297+dependabot-preview[bot]@users.noreply.github.com,dependabot-preview[bot],dependabot-preview[bot]@users.noreply.github.com,1.0,0.8363636363636364,1.0,1.0,False,False,False,False
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,dependabot[bot],support@dependabot.com,1.0,0.19354838709677424,1.0,1.0,False,False,False,False
+neutric,5984479+neutric@users.noreply.github.com,neutric,neutric@users.noreply.github.com,1.0,0.6363636363636364,1.0,1.0,False,False,False,False
+scientificworld,scientificworld@126.com,scientificworld,scientificworld@users.noreply.github.com,1.0,1.0,1.0,1.0,False,False,False,False
+shcai97,70462468+shcai97@users.noreply.github.com,shcai97,shcaigo@gmail.com,1.0,0.4347826086956522,1.0,1.0,False,False,False,False

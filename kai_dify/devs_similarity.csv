@@ -1,0 +1,28 @@
+name_1,email_1,name_2,email_2,c1_fullname,c2_prefix,c3_first,c3_last,c4,c5,c6,c7,email_score,same_domain,norm_local_a,norm_local_b,alpha_local_a,alpha_local_b,rule_strong_match,rule_keep_by_score
+AichiB7A,aliezted@gmail.com,Jian Guo,aliezted@gmail.com,0.25,1.0,0.33333333333333337,0.0,False,False,False,False,1.0,True,aliezted,aliezted,aliezted,aliezted,1,0
+Amy,1530140574@qq.com,rouxiaomin,1530140574@qq.com,0.3076923076923077,1.0,0.3076923076923077,1.0,False,False,False,False,1.0,True,1530140574,1530140574,,,1,0
+Bharat Ramanathan,bharat.ramanathan@wandb.com,Bharat Ramanathan,param.bharat@gmail.com,1.0,0.48275862068965514,1.0,1.0,False,True,True,True,0.20740740740740746,False,bharat.ramanathan,param.bharat,bharatramanathan,parambharat,1,0
+Boris Feld,boris@comet.com,Boris Feld,lothiraldan@gmail.com,1.0,0.25,1.0,1.0,False,False,False,False,0.1,False,boris,lothiraldan,boris,lothiraldan,1,0
+Bowen Liang,bowenliang@apache.org,Bowen Liang,liang.bowen.123@qq.com,1.0,0.4,1.0,1.0,True,True,True,True,0.2,False,bowenliang,liang.bowen.123,bowenliang,liangbowen,1,0
+Bowen Liang,bowenliang@apache.org,Bowen Liang,liangbowen@gf.com.cn,1.0,0.5,1.0,1.0,True,True,True,True,0.2,False,bowenliang,liangbowen,bowenliang,liangbowen,1,0
+Bowen Liang,liang.bowen.123@qq.com,Bowen Liang,liangbowen@gf.com.cn,1.0,0.8,1.0,1.0,True,True,True,True,0.4,False,liang.bowen.123,liangbowen,liangbowen,liangbowen,1,0
+Charlie.Wei,luowei@cvte.com,charli117,luowei@cvte.com,0.631578947368421,1.0,0.631578947368421,1.0,False,False,False,False,1.0,True,luowei,luowei,luowei,luowei,1,0
+David,guyuezhuying@126.com,HuDenghui,guyuezhuying@126.com,0.2857142857142857,1.0,0.2857142857142857,1.0,False,False,False,False,1.0,True,guyuezhuying,guyuezhuying,guyuezhuying,guyuezhuying,1,0
+Eric Guo,eric.guocz@gmail.com,Eric Guo,eric@cloud-mes.com,1.0,0.5714285714285714,1.0,1.0,False,False,True,True,0.24615384615384617,False,eric.guocz,eric,ericguocz,eric,1,0
+Jaxon Ley,xiao.ley@outlook.com,Xiao Ley,xiao.ley@outlook.com,0.7058823529411764,1.0,0.4444444444444444,1.0,False,False,True,True,1.0,True,xiao.ley,xiao.ley,xiaoley,xiaoley,1,0
+Jhvcc,37662342+Jhvcc@users.noreply.github.com,lowell,37662342+Jhvcc@users.noreply.github.com,0.0,1.0,0.0,1.0,False,False,False,False,1.0,True,jhvcc,jhvcc,jhvcc,jhvcc,1,0
+Kalo Chin,91766386+fdb02983rhy@users.noreply.github.com,fdb02983rhy,91766386+fdb02983rhy@users.noreply.github.com,0.09999999999999998,1.0,0.0,0.0,False,False,False,False,1.0,True,fdb02983rhy,fdb02983rhy,fdbrhy,fdbrhy,1,0
+Matri,matrixdom@126.com,Matri Qi,matrixdom@126.com,0.7692307692307692,1.0,1.0,0.0,False,False,False,False,1.0,True,matrixdom,matrixdom,matrixdom,matrixdom,1,0
+"Pan, Wen-Ming",pwm@google.com,"Pan, Wen-Ming",smalljelly2018@gmail.com,1.0,0.11764705882352944,1.0,1.0,False,False,False,False,0.06153846153846154,False,pwm,smalljelly2018,pwm,smalljelly,1,0
+Ron,svcvit@gmail.com,svcvit,svcvit@gmail.com,0.0,1.0,0.0,1.0,False,False,False,False,1.0,True,svcvit,svcvit,svcvit,svcvit,1,0
+Sergio Sacristán,extra@sacristan.com.es,Sergio Sacristán,sergio.sacristan@boehringer-ingelheim.com,1.0,0.2857142857142857,1.0,1.0,True,True,False,False,0.12000000000000002,False,extra,sergio.sacristan,extra,sergiosacristan,1,0
+Takuya Ono,takuya-o@users.osdn.me,Takuya Ono,takuya@page.on-o.com,1.0,0.8571428571428572,1.0,1.0,False,False,False,True,0.36923076923076925,False,takuya-o,takuya,takuyao,takuya,1,0
+WalterMitty,waltermitty121906@gmail.com,lisaifei@cvte.com,waltermitty121906@gmail.com,0.3076923076923077,1.0,0.3076923076923077,1.0,False,False,False,False,1.0,True,waltermitty121906,waltermitty121906,waltermitty,waltermitty,1,0
+Warren Wong,46453511+somethingwentwell@users.noreply.github.com,somethingwentwell,46453511+somethingwentwell@users.noreply.github.com,0.2857142857142857,1.0,0.26086956521739135,0.0,False,False,False,False,1.0,True,somethingwentwell,somethingwentwell,somethingwentwell,somethingwentwell,1,0
+Yash Parmar,82636823+Yash-1511@users.noreply.github.com,Yash_1124,82636823+Yash-1511@users.noreply.github.com,0.42105263157894735,1.0,0.6666666666666667,0.0,False,False,False,False,1.0,True,yash-1511,yash-1511,yash,yash,1,0
+Ying Wang,wang.neo@gmail.com,Yulong Wang,wangyulong@gmail.com,0.8,0.5555555555555556,0.6,1.0,True,False,False,False,0.8352941176470589,True,wang.neo,wangyulong,wangneo,wangyulong,1,0
+fenglin,790872612@qq.com,qfl,790872612@qq.com,0.4,1.0,0.4,1.0,False,False,False,False,1.0,True,790872612,790872612,,,1,0
+fenglin,qiaofenglin@58.com,qiaofenlin,qiaofenglin@58.com,0.7058823529411764,1.0,0.7058823529411764,1.0,False,False,False,False,1.0,True,qiaofenglin,qiaofenglin,qiaofenglin,qiaofenglin,1,0
+lyzno1,92089059+lyzno1@users.noreply.github.com,yyh,92089059+lyzno1@users.noreply.github.com,0.2222222222222222,1.0,0.2222222222222222,1.0,False,False,False,False,1.0,True,lyzno1,lyzno1,lyzno,lyzno,1,0
+taewoong Kim,116135174+ultramancode@users.noreply.github.com,teawoong Kim,116135174+ultramancode@users.noreply.github.com,0.9166666666666666,1.0,0.875,1.0,False,False,False,False,1.0,True,ultramancode,ultramancode,ultramancode,ultramancode,1,1
+zg0d233,11971297+zhao85@users.noreply.github.com,zhaoyi233,11971297+zhao85@users.noreply.github.com,0.5,1.0,0.5,1.0,False,False,False,False,1.0,True,zhao85,zhao85,zhao,zhao,1,0

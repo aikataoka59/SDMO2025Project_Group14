@@ -1,0 +1,14 @@
+Repo used:
+https://github.com/Homebrew/brew.git
+
+Total Contributors : 1046
+
+Dataset On Original Method with t = 0.9 is 4045
+
+Manual Reviewed fp/tp = 650
+
+False Positive Reasons:
+1- Same first name, different people
+2- Partial name overlap + unrelated emails
+
+Dataset On Own Method with t = 0.9 is 294

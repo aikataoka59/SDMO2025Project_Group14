@@ -116,10 +116,13 @@ def main():
     with open(out_path, 'r', newline='') as f:
         num_pairs = sum((1 for _ in f)) - 1
 
-    print(f'✅ Threshold: {THRESHOLD}')
-    print(f'✅ Number of committers: {num_devs}')
-    print(f'✅ Number of pairs: {num_pairs}')
-    print(f'✅ Output file: {out_path}')
+    total_pair= len(DEVS)*(len(DEVS)-1)//2  # total number of checked pairs
+    
+    print(f"✅ Threshold: {THRESHOLD}")
+    print(f"✅ Number of committers: {num_devs}")
+    print(f"✅ Number of all pairs: {total_pair}")
+    print(f"✅ Number of similar pairs: {num_pairs}")
+    print(f"✅ Output file: {out_path}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,19 @@
+Statistics:
+1052 committers with name and email 
+552827 pairs as devs_similarity 
+1174 similar pairs when t = 0.9 
+75 TPs and 1099 FPs after manual review 
+TP is 6.39% of all 
+
+How I reviewed:
+I classified the pair with same emails as the same person due to GitHub's specifications (user cannot register multiple accounts with one email, but they can change their username for commits) 
+I classified the pair with the same first and last name as the same person assuming that the possibility of another person with the exact same name committing to the same project is quite low. 
+I classified the pair with similar names and similar patterns of email as the same person. 
+I classified the person with full name and the person with the shortened name of another person’s full name as the same person. 
+
+Common reasons for FP:
+If either surname or given name is missing and there's no email similarity, it's likely a different person. When either name of person1 is missing and person2’s names are missing too, those different people with the same name tend to be paired. 
+When one name is too short, it easily fits into the pair prefix and returns TRUE, thus being included as a candidate. Examples: initial or short names like LI, Ji etc. 
+When the prefix seems to be the email domain and the domain part seems to be unique letters, all FP pairs with the same prefix were generated. like git@bochtler.io and git@mtlynch.io (noticed when I was checking the different project) 
+There are many individuals with surnames bearing similar spellings, such as “Chen”, “Cheng”, and “Zheng”. 
+There are many email prefixes like 12345+username@domain.com leading to totally different pairs of emails. 

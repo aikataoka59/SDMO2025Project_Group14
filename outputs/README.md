@@ -1,0 +1,1 @@
+Please place the text file describing the selected GitHub project and the output CSV file in each folder.

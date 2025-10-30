@@ -1,0 +1,12 @@
+Selected GitHub Project: Dify (analyzed by Ai Kataoka) 
+GitHub URL: https://github.com/langgenius/dify 
+
+This GitHub project is for an open-source platform enabling easy management of LLM application development, deployment, and operations. It can manage the entire LLM application lifecycle via a web UI with prompt engineering, API management, and application monitoring. 
+
+Statistics (recorded on 24.20.2025)  
+7657 commits  
+117k stars 
+18.1 folks 
+147 releases 
+100+ contributors (No more than 100 can be shown on the page) 
+

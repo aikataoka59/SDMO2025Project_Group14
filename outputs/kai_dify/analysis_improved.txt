@@ -1,0 +1,19 @@
+﻿Statistics
+* 532 similar pairs when t = 0.58 (before: 1174 pairs)
+* TP:FP 73:459  after manual review  (before: 75:1099)
+
+
+The common reasons for FP pairs
+* 12345+username@users.noreply.github.com were still left in the lists
+* the pairs with emails with only numbers were often picked up even though the name is totally different. It’s because the code doesn’t check if the local part is empty after removing all numbers and symbols from it.
+
+
+The solved problems
+* While maintaining a certain number of true positives, a large number of false positives are eliminated according to the threshold.
+* There were fewer pairs that had too short name which used to easily get paired. (except for the one with many number emails.)
+* There weren’t too many pairs that had missing names and weak email similarity (except for the one with many number emails.)
+
+
+The differences between projects that affected the performance of the method
+* In my github project, there were many emails with only numbers from the same organizations. It showed a vulnerability in our code. E.g. 1090179900@qq.com, 18018968632@163.com, 3130104027@stmail.ujs.edu.cn 
+* There were not any emails that has local looking like organizational in my list, since the project doesn’t have a user having such an email like that. So the checking-domain improvement’s performance level changes depend on what kind of users contribute to the github project.
